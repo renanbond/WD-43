@@ -203,6 +203,7 @@ footer .container {
 .painel li {
     transition: 0.7s ease-out;
 }
+
 @media(max-width: 939px) {
     .container {
         width: 96%;
